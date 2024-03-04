@@ -4,8 +4,8 @@ const path = require('path');
 
 // AWS S3 configuration
 const s3 = new AWS.S3({
-  accessKeyId: 'AKIAYXFMRZCXYU6OSRAJ',
-  secretAccessKey: '2RR/zBsLETWxUQiJ2DMFkXFtuWFxWoxUm2o7nW1A',
+  accessKeyId: 'Enter your aws id',
+  secretAccessKey: 'Enter you key',
   region: 'ap-south-1',
 });
 
